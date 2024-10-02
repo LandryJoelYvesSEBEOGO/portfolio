@@ -1,11 +1,5 @@
-<h2 align="center">
-  Portfolio Website<br/>
-</h2>
-<div align="center">
-</div>
 
-<br/>
-
+ ## Portfolio Website
 
 
 ## TL;DR
@@ -14,7 +8,7 @@ You can fork this repo to modify and make changes of your own. Please give the o
 
 ## Built With
 
-My personal portfolio <a href="https://saadioui.com/" target="_blank">saadioui.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio........which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
